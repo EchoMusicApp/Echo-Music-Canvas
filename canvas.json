@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "song": "Perfect",
+      "artist": "Ed sheeran",
+      "url": "https://canvas.echomusic.app/Song/19.m3u8"
+    },
+    {
       "song": "Dracula",
       "artist": "Tame Impala",
       "url": "https://canvas.echomusic.app/Song/1.mp4"
